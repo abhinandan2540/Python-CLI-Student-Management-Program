@@ -1,1 +1,3 @@
 # Python-CLI-Student-Management-Program
+
+#this is the CLI python using argparse,, covering the basic things that we can do...
