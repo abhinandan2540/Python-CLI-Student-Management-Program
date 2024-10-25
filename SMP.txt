@@ -1,0 +1,42 @@
+[
+    {
+        "name": "mana",
+        "name_class": 12,
+        "name_age": 20
+    },
+    {
+        "name": "avi",
+        "name_class": 14,
+        "name_age": 22
+    },
+    {
+        "name": "john",
+        "name_class": 10,
+        "name_age": 25
+    },
+    {
+        "name": "motu",
+        "name_class": 13,
+        "name_age": 34
+    },
+    {
+        "name": "patlu",
+        "name_class": 12,
+        "name_age": 32
+    },
+    {
+        "name": "jhatka",
+        "name_class": 15,
+        "name_age": 45
+    },
+    {
+        "name": "ghasita",
+        "name_class": 13,
+        "name_age": 23
+    },
+    {
+        "name": "chwingum",
+        "name_class": 25,
+        "name_age": 30
+    }
+]
